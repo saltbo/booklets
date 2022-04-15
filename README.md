@@ -17,6 +17,7 @@
 ## 他人著作
 
 - [提问的智慧](/how-to-ask-questions-the-smart-way/)
+- [区块链小白书](https://blockchainlittlebook.com/)
 
 
 # 联系我们
