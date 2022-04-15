@@ -1,8 +1,3 @@
----
-author: "saltbo"
-categories: "devhowto"
----
-
 # GoHowTo
 
 How to do something during rust developing.
