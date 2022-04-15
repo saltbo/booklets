@@ -18,6 +18,7 @@ jobs:
           driver: qiniu
           region: cn-north-1
           bucket: saltbo-booklets
+          exclude: .git,.github
           dist: .
         env:
           UPTOC_UPLOADER_AK: ${{ secrets.UPTOC_UPLOADER_KEYID }}
