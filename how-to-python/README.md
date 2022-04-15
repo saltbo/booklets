@@ -1,6 +1,8 @@
 # PythonHowTo
 
-How to do something during rust developing.
+How to do something during python developing.
+
+编写中...
 
 # 基础
 

@@ -1,6 +1,8 @@
 # GoHowTo
 
-How to do something during rust developing.
+How to do something during golang developing.
+
+编写中...
 
 # 基础
 
